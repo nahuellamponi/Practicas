@@ -1,0 +1,37 @@
+div{
+    width: 520px;
+    height: 450px;
+    background: #900a;
+    margin: auto;
+    box-shadow: 0 0 35px #0006;
+    border-radius: 10px;
+}
+.box_2{
+    background: #090a;
+}
+.box_3{
+    background-color: #009a;
+}
+.title{
+    margin: 20px;
+    padding-top: 30px;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+}
+.subtitle{
+    padding-top:30px;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: 'Lucida Sans';
+}
+.content{
+    padding-top:30px;
+    margin:20px;
+    text-align: justify;
+    font-size: 20px;
+    color: #ededed;
+    font-family: georgia;
+}
