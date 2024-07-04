@@ -1,0 +1,61 @@
+body{
+    background-color: #000;
+
+}
+main{
+    display: flex;
+}
+p{
+    text-align: justify;
+    border: 3px solid rgba(58, 108, 243, 0.623);
+    border-radius: 5px;
+    padding: 3px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 900;
+    color: beige;
+    text-align: justify;
+
+}
+h1{
+    color: rgba(108, 51, 182, 0.493);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.Proyect-1{
+    width: 40vw;
+    height: 40vh;
+    background: rgba(250, 235, 215, 0.021) ;
+    font-family: serif;
+    box-shadow: 0 0 10px gray;
+    border-radius: 10px;
+    margin-right: 20px;
+    transition: 2s;
+    margin-left: 100px;
+}
+.Proyect-1:hover{
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgba(0, 255, 255, 0.445);
+    width: 45vw;
+    height: 45vh;
+    transition: 2s;
+}
+h2{
+    text-align: center;
+    color: salmon;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.Proyect-2{
+    width: 40vw;
+    height: 40vh;
+    background-color: rgba(250, 235, 215, 0.021);
+    box-sizing: border-box;
+    box-shadow: 0 0 10px gray;
+    border-radius: 10px;
+    margin: auto;
+}
